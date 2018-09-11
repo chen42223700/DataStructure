@@ -1,4 +1,4 @@
-package DataStructure.myLinkedList;
+package DataStructure.myArrayList;
 
 /**
  * 数组
